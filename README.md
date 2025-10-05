@@ -21,9 +21,6 @@ conda activate 3DGS-SPN
 - [``MegaPose/gso_1M``](https://www.paris.inria.fr/archive_ylabbeprojectsdata/megapose/webdatasets/) 
 - [``MegaPose/google_scanned_objects.zip``](https://www.paris.inria.fr/archive_ylabbeprojectsdata/megapose/tars/) 
 
-After the download is complete, unzip the MegaDepth dataset in the /path/to/RMmodel/data/megadepth/train/phoenix/S6/zl548/MegaDepth_v1; 
-and unzip the dataset indices in the /path/to/RMmodel/data/megadepth/index.
-
 
 
 ### 2) Testing Dataset:
