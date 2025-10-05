@@ -85,5 +85,3 @@ If you find this project useful, please cite:
   year={2025}
 }
 ```
-# 3DGS-SPN
-# GSPose-V3
