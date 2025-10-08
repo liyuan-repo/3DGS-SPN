@@ -13,7 +13,7 @@ conda env create -f environment.yaml
 
 conda activate 3DGS-SPN   
 
-## Download the datasets
+## Download the Datasets
 
 ### 1) Training Dataset:
 #### MegaDepth and the dataset indices   
