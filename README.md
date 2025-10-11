@@ -3,12 +3,10 @@
 https://github.com/user-attachments/assets/e3b8629c-90ef-4c0d-9a9b-8b91612869c6
 
 
-![](visualization/Problem_Formulaion.png)
-
-
 ## Abstract 
 Precise spacecraft pose estimation and tracking is a key technology for space exploration and on-orbit servicing. However, 1) existing methods typically rely on refined depth information or prior 3D reference models, this dependency renders these methods inapplicable to non-cooperative targets; 2) the complex and dynamic space environment  could dramatically degrade the accuracy of pose estimation. To tackle these challenges, we propose a spacecraft pose estimation and tracking network incorporating 3D Gaussian splatting, termed 3DGS-SPN, that aims to implement instance detection, 3D model reconstruction, and 6DoF pose estimation and tracking for non-cooperative or unknown targets using only RGB images from a monocular vision sensor. 
 
+![](visualization/Problem_Formulaion.png)
 
 ## Environment Setup 
 
