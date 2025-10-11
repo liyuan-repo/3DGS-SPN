@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/e3b8629c-90ef-4c0d-9a9b-8b91612869c6
 
 
-![](demo/Problem_Formulaion.png)
+![](visualization/Problem_Formulaion.png)
 
 
 ## Abstract 
@@ -86,7 +86,7 @@ Consecutive-frame pose tracking:
 Except for single-frame pose estimation, 3DGS-SPET further extends to pose tracking across consecutive frames.
 For relevant visualization results, please download from [here](https://drive.google.com/file/d/1fjRpKm-XvrkuvEF29_QlvCWKStn-nBr4/view?usp=drive_link).
 
-![](demo/pose_visual1.png)
+![](visualization/pose_visual1.png)
 
 ## Training
 We utilize a subset (``gso_1M``) of the MegaPose dataset for training.
