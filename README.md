@@ -106,7 +106,7 @@ Our work are based on [3D Gaussian Splatting](https://github.com/graphdeco-inria
 If you find this project useful, please cite:
 ```
 @article{,
-  title={Incorporating 3D Gaussian Splatting for Monocular Vision Spacecraft Pose Estimation and Tracking},
+  title={3DGS-SPET: Incorporating 3D Gaussian Splatting for Spacecraft Pose Estimation and Tracking Based on Monocular Vision},
   author={Yuan Li, Dapeng Wu, Yaping Cui, Peng He, Yuan Zhang and Ruyan Wang},
   journal={Arxiv},
   year={2025}
